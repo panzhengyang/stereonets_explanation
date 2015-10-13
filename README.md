@@ -11,4 +11,4 @@ ex5 ----  draw a plane with dip direction = 135 and E of N and dipping 61  degre
           0 degrees represents a left handed strike slip fault. 
           90 is a pure thrust, 
           180 a right handed strike slip,
-          270 a pure normal fault
+          270 a pure normal fault.
