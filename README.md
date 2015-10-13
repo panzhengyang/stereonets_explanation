@@ -19,3 +19,5 @@ ex5 ----  draw a plane with dip direction = 135 and E of N and dipping 61  degre
 180 a right handed strike slip,
 
 270 a pure normal fault.
+
+all of plot are finished by onnet software (http://quake.wr.usgs.gov/~michael/software/onnet)
